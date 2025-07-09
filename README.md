@@ -1,4 +1,6 @@
 # ankita_chatboat
+Link for the chat bot
+* https://ankitachatboat-doctor.streamlit.app/
 ## Overview
 The Health Symptom Checker is a web application built using Streamlit and OpenAI's GPT-3.5-turbo model. This app allows users to describe their health symptoms and receive general remedies or advice based on their input.
 
