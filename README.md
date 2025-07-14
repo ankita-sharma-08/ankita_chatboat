@@ -76,7 +76,3 @@ This application is intended for **informational purposes only** and does **not*
 
 ---
 
-##  Powered By
-
-* [Streamlit](https://streamlit.io/)
-* [OpenAI GPT-3.5-turbo](https://platform.openai.com/)
