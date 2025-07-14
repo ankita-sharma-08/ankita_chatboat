@@ -30,8 +30,8 @@ A simple **Streamlit** web application that allows users to describe their sympt
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/health-symptom-checker.git
-   cd health-symptom-checker
+   git clone 
+   cd health-ankita_chatboat
    ```
 
 2. **Install dependencies:**
