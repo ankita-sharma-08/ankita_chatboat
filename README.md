@@ -30,7 +30,7 @@ A simple **Streamlit** web application that allows users to describe their sympt
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/ankita-sharma-08/ankita_chatboat.git
    cd health-ankita_chatboat
    ```
 
