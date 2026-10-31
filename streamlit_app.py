@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 # Initialize OpenAI client using Streamlit's secrets
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+client = OpenAI(api_key=st.secrets["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"])
 
 # Title of the app
 st.title("Health Symptom Checker")
